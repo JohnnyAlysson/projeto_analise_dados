@@ -1,2 +1,5 @@
 10/12/2023
   Criação do Repositório e upload de arquivos.
+
+11/12/2023
+  Configuração do Google collab e criação do Readme.
