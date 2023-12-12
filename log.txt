@@ -2,4 +2,5 @@
   Criação do Repositório e upload de arquivos.
 
 11/12/2023
-  Configuração do Google collab e criação do Readme.
+  Configuração do Google collab e criação do Readme e do fluxograma com a lógica de programação.
+  Inicio do código com importação do pandas e configurações iniciais de visualização.
